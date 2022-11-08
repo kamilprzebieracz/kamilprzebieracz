@@ -16,6 +16,7 @@ A poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (
 <hr>
 Programowaniem zająłem się na poważnie ok 2 lat temu. Od tego czasu staram się cały czas rozwijać co myśle idzie mi całkiem dobrze :mortar_board: :smile:
 Jestem bezkonfliktowy, otwarty i wytrwały. Chętnie podejmuje nowe wyzwania które pozwalają mi się rozwijać.
+</br>
+</br>
 
-
-Tutaj możesz ściągnąć moje [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) .
+Tutaj możesz ściągnąć moje [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) 
