@@ -18,4 +18,4 @@ Programowaniem zająłem się na poważnie ok 2 lat temu. Od tego czasu staram s
 Jestem bezkonfliktowy, otwarty i wytrwały. Chętnie podejmuje nowe wyzwania które pozwalają mi się rozwijać.
 
 
-
+Tutaj możesz ściągnąć moje [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) .
