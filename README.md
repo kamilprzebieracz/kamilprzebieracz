@@ -15,7 +15,7 @@ A poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (
 
 <hr>
 Programowaniem zająłem się na poważnie ok 2 lat temu. Od tego czasu staram się cały czas rozwijać co myśle idzie mi całkiem dobrze :mortar_board: :smile:
-Jestem bezkonfliktowy, otwarty i wytrwały. Chętnie podejmuje nowe wyzwania które pozwalają mi się rozwijać.
+Jestem bezkonfliktowy, otwarty i wytrwały. Chętnie podejmuje nowe wyzwania które pozwalają mi iść naprzód.
 </br>
 </br>
 
