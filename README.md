@@ -4,9 +4,9 @@
 
 Witam, jestem Kamil i jestem Front-end developerem. </br>
 
-Lubię Javascript, SCSS i koty :cat2: Koty są fajne.
+Lubię React, Javascript i SCSS.
 
-A poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (filtrowane od najstarszych): </br>
+Poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (filtrowane od najstarszych): </br>
 
 [Geotec](http://geotecsp.pl) </br>
 [Hypsteria](https://hypsteria.com.pl) </br>
