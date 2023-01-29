@@ -2,11 +2,11 @@
 </br>
 </br>
 
-Witam, jestem Kamil i jestem Front-end developerem. </br>
+Hello, I'm Kamil and I'm a Front-end developer. </br>
 
-Lubię React, Javascript i SCSS.
+I like React, Javascript and SCSS.
 
-Poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (filtrowane od najstarszych): </br>
+Below are some of the projects made entirely by me (filtered from the oldest): </br>
 
 [Geotec](http://geotecsp.pl) </br>
 [Hypsteria](https://hypsteria.com.pl) </br>
@@ -14,9 +14,9 @@ Poniżej znajduje się kilka z projektów wykonanych w całości przeze mnie (fi
 [Korblit](https://kornblit.pl) </br>
 
 <hr>
-Programowaniem zająłem się na poważnie ok 2 lat temu. Od tego czasu staram się cały czas rozwijać co myśle idzie mi całkiem dobrze :mortar_board: :smile:
-Jestem bezkonfliktowy, otwarty i wytrwały. Chętnie podejmuje nowe wyzwania które pozwalają mi iść naprzód.
+I started programming seriously about 2 years ago. Since then I've been trying to develop what I think I'm doing quite well :mortar_board: :smile:
+I am non-conflict, open and persistent. I am willing to take on new challenges that allow me to move forward.
 </br>
 </br>
 
-Tutaj możesz ściągnąć moje [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) 
+Here you can download my [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) 
