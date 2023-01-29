@@ -19,4 +19,4 @@ I am non-conflict, open and persistent. I am willing to take on new challenges t
 </br>
 </br>
 
-Here you can download my [CV](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) 
+Here you can download my CV in [polish](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz.pdf) or [english](https://github.com/kamilprzebieracz/kamilprzebieracz/raw/main/CV%20Kamil%20Przebieracz%20EN.pdf)
